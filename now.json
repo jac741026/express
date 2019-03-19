@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "do",
+  "builds": [
+    {
+      "src": "**/*.js",
+      "use": "@now/node"
+    }
+  ]
+}
